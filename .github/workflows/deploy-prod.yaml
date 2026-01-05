@@ -4,4 +4,7 @@ on:
 
 jobs:
   deploy-prod:
+  
     environment: production
+    runs-on: ubuntu-latest
+

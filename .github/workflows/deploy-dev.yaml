@@ -5,3 +5,4 @@ on:
 jobs:
   deploy-dev:
     environment: dev
+    runs-on: ubuntu-latest
