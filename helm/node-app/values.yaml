@@ -1,0 +1,5 @@
+image:
+  repository: 123456789.dkr.ecr.ap-south-1.amazonaws.com/node-app
+  tag: latest
+
+activeColor: blue
