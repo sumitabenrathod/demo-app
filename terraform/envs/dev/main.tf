@@ -15,6 +15,7 @@ module "eks" {
   private_subnets = module.vpc.private_subnets
 }
 
+
 module "ecr" {
   source = "../../modules/ecr"
   env    = "dev"
