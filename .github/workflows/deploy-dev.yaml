@@ -2,7 +2,6 @@ name: Terraform-DEV
 
 on:
   push:
-    branches: [ "dev" ]
     paths:
       - terraform/**
 

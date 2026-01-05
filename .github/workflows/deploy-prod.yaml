@@ -2,7 +2,6 @@ name: Terraform-PROD
 
 on:
   push:
-    branches: [ "main" ]
     paths:
       - terraform/**
 
